@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Gravfu
-- 👀 I’m interested in Computer Science in genereal.
 - My Website: <https://gravfu.com>
 
 <!---
